@@ -28,9 +28,3 @@ Ensure you have the following installed:
 - **Python** (for backend processing)
 - **pip** (for installing Python libraries)
 
-### Frontend (React.js)
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/article-summarizer.git
-   cd article-summarizer/frontend
